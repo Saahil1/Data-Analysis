@@ -1,0 +1,5 @@
+#birthdate
+birthdate = int(input("what is ur birthdate "))
+year = 2023
+nvm =str(year-birthdate)
+print("you are " + nvm)
