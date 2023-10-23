@@ -1,0 +1,5 @@
+age=int(input('enter temperature'))
+if age>=35:
+    print("its a hot day")
+else:
+    print("its a nice day")
