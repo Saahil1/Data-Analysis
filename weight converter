@@ -1,6 +1,0 @@
-weight=input("enter weight ")
-ask=input("(k)g or (L)bs ")
-if ask=='k':
-    print(float(weight)*2.205)
-elif ask=='l':
-   print(float(weight)/2.205)
